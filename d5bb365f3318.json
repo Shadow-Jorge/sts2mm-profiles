@@ -1,0 +1,172 @@
+{
+  "name": "Base Modded",
+  "game_version": null,
+  "created_by": "Shadow-Jorge",
+  "mods": [
+    {
+      "name": "AllSilentFullArt.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "4482916a046e9b8fa5f0754ac82d31e604adcc084841636fd1228399f367d60f",
+      "files": [
+        "AllSilentFullArt.cardartpack.json"
+      ],
+      "folder_name": "AllSilentFullArt.cardartpack",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/AllSilentFullArt_cardartpack_v0.0.0_ffd44218.zip",
+      "bundle_sha256": "ffd442183ce822283a878a6021bb26df7f9083b1287053545b4eb7b9aeb7444f"
+    },
+    {
+      "name": "defect-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "2095d570b9f303c31df22f2937ffe97da087c396ffd98aab595423d22b1bdc11",
+      "files": [
+        "DefectFullArt CardArtEditor Pack V0.1.0\\defect-full-art.cardartpack.json",
+        "DefectFullArt CardArtEditor Pack V0.1.0\\README.md"
+      ],
+      "folder_name": "DefectFullArt CardArtEditor Pack V0.1.0",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/defect-full-art_cardartpack_v0.0.0_4d8df9a2.zip",
+      "bundle_sha256": "4d8df9a224b46f1fa48a8f1078602a966613339937a4ceffeeefc871fbdc9cd5"
+    },
+    {
+      "name": "Don't Abandon Your Friends",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "80a0421a51583bd298f8b64c4fc33caa1f5c3760b2b92a560e5ab6c4fea71164",
+      "files": [
+        "DontAbandonYourFriends\\DontAbandonYourFriends.dll",
+        "DontAbandonYourFriends\\DontAbandonYourFriends.json"
+      ],
+      "folder_name": "DontAbandonYourFriends",
+      "mod_id": "DontAbandonYourFriends",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/Don.t_Abandon_Your_Friends_v0.1.0_540bda32.zip",
+      "bundle_sha256": "540bda3290c635916ab90fef836a0b06621c3175fb689b90694a70616a185faa"
+    },
+    {
+      "name": "ironclad-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "8a56a65a27fdf03be7174bbea79ef812f6d6c109df52747d0a08510271a1a2df",
+      "files": [
+        "IroncladFullArtPack 0.1.1\\full_art_pngs\\ironclad\\not_yet.png",
+        "IroncladFullArtPack 0.1.1\\full_art_pngs\\ironclad\\spite.png",
+        "IroncladFullArtPack 0.1.1\\ironclad-full-art.cardartpack.json",
+        "IroncladFullArtPack 0.1.1\\README.md"
+      ],
+      "folder_name": "IroncladFullArtPack 0.1.1",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/ironclad-full-art_cardartpack_v0.0.0_bd4bee9a.zip",
+      "bundle_sha256": "bd4bee9a09c0d74d89e0c93731636a9d1983d695d1aad4d4c99167a30f4beb21"
+    },
+    {
+      "name": "MOD Sync Checker / 模组同步检测器",
+      "version": "2.3.7",
+      "source": null,
+      "hash": "3d40fd063ea77c1540c3c22cb69e543fb13861a8148b2766082e1b950e8baa13",
+      "files": [
+        "ModSyncChecker\\i18n\\en.json",
+        "ModSyncChecker\\i18n\\ja.json",
+        "ModSyncChecker\\i18n\\ko.json",
+        "ModSyncChecker\\i18n\\README.md",
+        "ModSyncChecker\\i18n\\zh.json",
+        "ModSyncChecker\\ModSyncChecker.dll",
+        "ModSyncChecker\\mod_manifest.json"
+      ],
+      "folder_name": "ModSyncChecker",
+      "mod_id": "ModSyncChecker",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/MOD_Sync_Checker___._v2.3.7_aec75d1b.zip",
+      "bundle_sha256": "aec75d1bcb2b0111446aefdcb20a623fab8415be792508f00300fd3a9e5ac358"
+    },
+    {
+      "name": "necrobinder-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "650fdcc06882f167067c799196f1a33a99b2c1881fe15aa9dbd77d2ef92d2600",
+      "files": [
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2\\CHANGELOG.md",
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2\\necrobinder-full-art.cardartpack.json",
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2\\README.md"
+      ],
+      "folder_name": "NecrobinderFullArt CardArtEditor Pack V0.1.2",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/necrobinder-full-art_cardartpack_v0.0.0_ef3a75fa.zip",
+      "bundle_sha256": "ef3a75fa15978477d0f3f5c98e9df42b00fd52aa525e9e6d09b276d28447ad66"
+    },
+    {
+      "name": "Party Combat Reset",
+      "version": "0.1.6",
+      "source": null,
+      "hash": "02f060ac0f95e1e997c2c8c64f9dd86615bd7271a5067f55a412e246e2da6115",
+      "files": [
+        "PartyCombatReset\\PartyCombatReset\\PartyCombatReset.dll",
+        "PartyCombatReset\\PartyCombatReset\\PartyCombatReset.json",
+        "PartyCombatReset\\PartyCombatReset\\PartyCombatReset.pck"
+      ],
+      "folder_name": "PartyCombatReset",
+      "mod_id": "PartyCombatReset",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/Party_Combat_Reset_v0.1.6_0077a076.zip",
+      "bundle_sha256": "0077a076543f763e6fa67ae2d191a16db4667f53aaec46dccdd55b750b5f0d59"
+    },
+    {
+      "name": "RegentFullArt-CardArtEditor-v0.1.0.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "a54c86be4c2788959df6328ae21b9e147f184216d244ab9c98c898c0a82981f9",
+      "files": [
+        "RegentFullArt-CardArtEditor-Pack-v0.1.0\\CHANGELOG_REGENT_FULL_ART.md",
+        "RegentFullArt-CardArtEditor-Pack-v0.1.0\\INSTALL_REGENT_FULL_ART.txt",
+        "RegentFullArt-CardArtEditor-Pack-v0.1.0\\README_REGENT_FULL_ART.md",
+        "RegentFullArt-CardArtEditor-Pack-v0.1.0\\RegentFullArt-CardArtEditor-v0.1.0.cardartpack.json",
+        "RegentFullArt-CardArtEditor-Pack-v0.1.0\\REGENT_CARD_LIST.txt"
+      ],
+      "folder_name": "RegentFullArt-CardArtEditor-Pack-v0.1.0",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/RegentFullArt-CardArtEditor-v0_1_0_cardartpack_v0.0.0_86a1817b.zip",
+      "bundle_sha256": "86a1817b0d3bea0704aa9320e6e5789944f50a3927910f1810c88301eab5119f"
+    },
+    {
+      "name": "SpireLink",
+      "version": "0.2.1",
+      "source": null,
+      "hash": "28e09ca62756454694c649193193d6f88943ab566ae76807cc952a2b55eba5a2",
+      "files": [
+        "SpireLink\\SpireLink.dll",
+        "SpireLink\\SpireLink.json",
+        "SpireLink\\SpireLink.pck"
+      ],
+      "folder_name": "SpireLink",
+      "mod_id": "SpireLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/SpireLink_v0.2.1_a216a7bd.zip",
+      "bundle_sha256": "a216a7bd8394e94a7f4d3f050216ae8da30fd1a3a1e0026f004c19d62b737bf5"
+    },
+    {
+      "name": "STS 2 Unlimited",
+      "version": "v0.5.5",
+      "source": null,
+      "hash": "10443a1d44523ebf04f53d0602ac3d34c88767086a1b0845608461559fd21252",
+      "files": [
+        "Sts2Unlimited\\0Harmony.dll",
+        "Sts2Unlimited\\icon.svg",
+        "Sts2Unlimited\\README.md",
+        "Sts2Unlimited\\Sts2Unlimited.dll",
+        "Sts2Unlimited\\Sts2Unlimited.json",
+        "Sts2Unlimited\\sts2unlimited.maxplayers.txt",
+        "Sts2Unlimited\\Sts2Unlimited.pck"
+      ],
+      "folder_name": "Sts2Unlimited",
+      "mod_id": "Sts2Unlimited",
+      "enabled": true,
+      "bundle_url": "https://github.com/Shadow-Jorge/sts2mm-profiles/releases/download/bundles/STS_2_Unlimited_v0.5.5_c3c12341.zip",
+      "bundle_sha256": "c3c123412fe74219d07d11bd907095f266634bd016c36e09cc0c79c80ad8be54"
+    }
+  ],
+  "created_at": "2026-06-08T21:00:03.958419300Z",
+  "updated_at": "2026-06-08T21:00:04.080558900Z",
+  "public": false
+}
